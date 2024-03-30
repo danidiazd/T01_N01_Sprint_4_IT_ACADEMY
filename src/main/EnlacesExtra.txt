@@ -1,0 +1,11 @@
+
+Biblioteca Anotaciones Spring Boot.
+https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller.html
+
+
+Path Variable Spring Boot
+
+https://www.baeldung.com/spring-pathvariable
+
+Mapping y paths
+https://www.geeksforgeeks.org/spring-boot-pathvariable-and-requestparam-annotations/
